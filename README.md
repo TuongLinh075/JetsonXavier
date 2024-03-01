@@ -8,3 +8,5 @@ https://www.balena.io/etcher/
 https://www.waveshare.com/wiki/JetRacer_AI_Kit
 # Jetson Xavier
 https://www.waveshare.com/wiki/JetRacer_AI_Kithttps://developer.nvidia.com/embedded/learn/get-startedjetson-xavier-nx-devkit
+# mo hinh YOLO
+https://docs.ultralytics.com/modes/train/#train-settings
