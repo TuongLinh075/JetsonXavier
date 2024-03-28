@@ -6,6 +6,7 @@ https://github.com/NVIDIA/jetson-gpio
 https://www.balena.io/etcher/
 # JetRacer
 https://www.waveshare.com/wiki/JetRacer_AI_Kit
+-- phan cung : https://www.waveshare.com/wiki/JetRacer_Assembly_Manual
 # Jetson Xavier
 https://www.waveshare.com/wiki/JetRacer_AI_Kithttps://developer.nvidia.com/embedded/learn/get-startedjetson-xavier-nx-devkit
 # mo hinh YOLO
